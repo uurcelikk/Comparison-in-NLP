@@ -1,1 +1,1 @@
-# Comporision-in-NLP
+# Comparison-in-NLP
